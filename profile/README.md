@@ -1,6 +1,6 @@
 # Sound Scout
 
-edited by sam
+edited by sam a second time
 Brief description of your project.
 
 ## Table of Contents
