@@ -1,5 +1,7 @@
 # Sound Scout
 
+Edited by Clayton
+
 Brief description of your project.
 
 ## Table of Contents
