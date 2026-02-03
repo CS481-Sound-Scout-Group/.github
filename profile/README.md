@@ -94,7 +94,7 @@ Sound Scout is split into multiple repositories for clarity and maintainability:
 
 	Notebooks for machine learning experimentation and model development.
 
-	[https://github.com/CS481-Sound-Scout-Group/Sound-Scout-Web](https://github.com/CS481-Sound-Scout-Group/notebooks)
+	https://github.com/CS481-Sound-Scout-Group/notebooks
 
 > Note: At the moment, all other code and infrastructure is hosted in AWS and is not public.
 
