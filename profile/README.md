@@ -78,6 +78,8 @@ Sound Scout is built as a modular, cloud-based system:
 <!-- TODO: to add once built from draw.io -->
 ![Architecture Diagram](./resources/architecture.png)
 
+
+
 ## Repositories
 
 Sound Scout is split into multiple repositories for clarity and maintainability:
@@ -87,6 +89,12 @@ Sound Scout is split into multiple repositories for clarity and maintainability:
 	Frontend web interface and user experience
 
 	https://github.com/CS481-Sound-Scout-Group/Sound-Scout-Web
+
+* **SageMaker Notebooks**
+
+	Notebooks for machine learning experimentation and model development.
+
+	https://github.com/CS481-Sound-Scout-Group/notebooks
 
 > Note: At the moment, all other code and infrastructure is hosted in AWS and is not public.
 
