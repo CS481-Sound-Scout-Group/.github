@@ -1,5 +1,4 @@
 # Sound Scout
-editted by Ryan
 
 **Sound Scout** turns chaotic urban noise into clear, actionable information.
 
