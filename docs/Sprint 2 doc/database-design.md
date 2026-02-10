@@ -22,13 +22,16 @@ No raw or reconstructable audio data is retained.
 - confidence
 - model_version
 - timestamp
-- approximate_location
+- mic_location_lat (DOUBLE)
+- mic_location_lng (DOUBLE)
+- volume_db (DOUBLE)
 
 
 ### devices
 Registered microphone devices.
 - device_id
-- location
+- location_lat (DOUBLE)
+- location_lng (DOUBLE)
 - status
 
 ## Access Pattern
