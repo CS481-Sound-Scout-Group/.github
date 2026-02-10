@@ -27,12 +27,24 @@ No raw or reconstructable audio data is retained.
 - volume_db (DOUBLE)
 
 
-### devices
+## audio sources
 Registered microphone devices.
 - device_id
 - location_lat (DOUBLE)
 - location_lng (DOUBLE)
 - status
+
+## Supoorted_cities
+- city_id
+- city_name
+- city_adress
+- city_location_lat 
+- city_location_lng
+- zoom_level
+
+## classifiable_sounds 
+- sound_id
+- name
 
 ## Access Pattern
 - Backend EC2 service reads and writes to the database
