@@ -17,14 +17,14 @@ All database access is restricted to backend services.
 ### classification_results
 Stores aggregated and derived sound classification outputs.
 No raw or reconstructable audio data is retained.
--result_id
--label
--confidence
--model_version
--timestamp
--mic_location_lat (DOUBLE)
--mic_location_lng (DOUBLE)
--volume_db (DOUBLE)
+- result_id
+- label
+- confidence
+- model_version
+- timestamp
+- mic_location_lat (DOUBLE)
+- mic_location_lng (DOUBLE)
+- volume_db (DOUBLE)
 
 
 ### devices
