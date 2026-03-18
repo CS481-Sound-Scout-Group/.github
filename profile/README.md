@@ -73,11 +73,10 @@ Sound Scout is built as a modular, cloud-based system:
 
 ## Demos & Visuals
 
-![Sound Scout Live Map](./resources/live-map.png)
+<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/76ffa0b5-d7c5-49ce-9f60-8d894d4b1db7" />
 
 <!-- TODO: to add once built from draw.io -->
 ![Architecture Diagram](./resources/architecture.png)
-
 
 
 ## Repositories
